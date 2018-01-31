@@ -20,7 +20,7 @@ Setup
 ```
         'marcie':   {'init': 'chiminey.marcieconnector.initialise.MarcieInitial',
                       'name': 'marcie',
-                      'description': 'The CHARLIE Petri Net Model Checker',
+                      'description': 'The MARCIE Petri Net Model Checker',
                       'payload': '/opt/chiminey/current/chiminey/marcieconnector/payload_marcie'
                      },
 ```
